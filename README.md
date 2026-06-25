@@ -21,13 +21,13 @@ This project helped me strengthen my understanding of SQL while approaching prob
 
 ## Database Schema
 
-![EER Diagram](screenshots/eer_diagram.png)
+![EER Diagram](screenshots/ERR_diagram_online_book_store_analysys.png)
 
 The project consists of three main tables:
-
+![Books Table](screenshots/orders_table.png)
 * **Books** – Stores information about books such as title, author, genre, price, stock, and publication year.
-* **Customers** – Contains customer details including name, email, country, and city.
-* **Orders** – Records customer purchases, quantities, order dates, and references to books.
+* **Customers** ![Customers Table](screenshots/customers_table.png)  – Contains customer details including name, email, country, and city.
+* **Orders**  ![Orders Table](screenshots/orders_table.png)  – Records customer purchases, quantities, order dates, and references to books.
 
 The Entity Relationship (ER) Diagram is available in the `screenshots` folder.
 
