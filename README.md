@@ -21,6 +21,8 @@ This project helped me strengthen my understanding of SQL while approaching prob
 
 ## Database Schema
 
+![EER Diagram](screenshots/eer_diagram.png)
+
 The project consists of three main tables:
 
 * **Books** – Stores information about books such as title, author, genre, price, stock, and publication year.
