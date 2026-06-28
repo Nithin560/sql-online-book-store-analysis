@@ -10,6 +10,15 @@ This project helped me strengthen my understanding of SQL while approaching prob
 
 ---
 
+## 📌 Project Highlights
+
+* Solved 40+ SQL business questions using an online book store database.
+* Applied SQL concepts including JOINs, Aggregate Functions, Subqueries, CTEs, and Window Functions.
+* Performed customer, sales, and revenue analysis to answer real-world business questions.
+* Designed and documented the database schema using an EER diagram.
+* Published the complete project on GitHub with datasets, SQL scripts, and documentation.
+
+
 ## Objectives
 
 * Practice writing SQL queries using a relational database.
