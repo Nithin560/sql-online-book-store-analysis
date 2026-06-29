@@ -18,7 +18,6 @@ This project helped me strengthen my understanding of SQL while approaching prob
 * Designed and documented the database schema using an EER diagram.
 * Published the complete project on GitHub with datasets, SQL scripts, and documentation.
 
-
 ## Objectives
 
 * Practice writing SQL queries using a relational database.
@@ -118,6 +117,20 @@ This project answers several business-focused questions using SQL, including:
 Overall, more than **40 SQL queries** were written to explore different business scenarios.
 
 ---
+
+## 📈 Key Insights
+
+After analyzing the online book store dataset, I identified several meaningful business insights:
+
+* Identified the highest revenue-generating books and genres.
+* Discovered the top customers based on total spending.
+* Found books that had never been ordered, highlighting potential inventory issues.
+* Analyzed each genre's contribution to overall revenue.
+* Ranked the top customers within each country using SQL window functions.
+* Explored customer purchasing patterns across multiple book genres.
+
+These insights demonstrate how SQL can be used to support business decision-making through data analysis.
+
 
 ## Project Structure
 
