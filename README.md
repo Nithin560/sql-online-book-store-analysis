@@ -178,10 +178,10 @@ This project was created as part of my SQL learning journey to strengthen my dat
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Nithin Vandana**
 
-If you have any suggestions or feedback about this project, feel free to connect with me.
+This project was created as part of my data analytics learning journey to strengthen my SQL skills through practical, business-oriented problems.
 
-nithinpandu9@gmail.com
+Thank you for taking the time to explore this project. If you have any suggestions or feedback, feel free to connect with me through GitHub.
