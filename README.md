@@ -169,7 +169,7 @@ More importantly, it gave me experience in converting raw data into meaningful i
 * MySQL Workbench
 * Git
 * GitHub
-
+* visula Studio Code
 ---
 
 ## About This Project
