@@ -74,6 +74,24 @@ Throughout this project, I worked with the following SQL concepts:
 
 ---
 
+## 🛠️ Skills Demonstrated
+
+This project helped me strengthen the following technical and analytical skills:
+
+* SQL Query Writing
+* MySQL
+* Relational Database Design
+* Data Analysis
+* Joins (INNER JOIN, LEFT JOIN)
+* Aggregate Functions
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Business Problem Solving
+* Data Interpretation
+
+---
+
 ## Business Questions Solved
 
 This project answers several business-focused questions using SQL, including:
