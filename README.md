@@ -76,7 +76,7 @@ Throughout this project, I worked with the following SQL concepts:
 
 ## Business Questions Solved
 
-Some of the business questions answered in this project include:
+This project answers several business-focused questions using SQL, including:
 
 # Which books generate the highest revenue?
 
