@@ -185,12 +185,16 @@ More importantly, it gave me experience in converting raw data into meaningful i
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
-1. Import the CSV files into your SQL database.
-2. Create the required tables.
-3. Run the SQL script available in the `sql_queries` folder.
-4. Execute the queries individually to reproduce the analysis.
+Follow these steps to run this project on your local machine:
+
+1. Clone this repository or download the project files.
+2. Import the datasets (`books.csv`, `customers.csv`, and `orders.csv`) into MySQL.
+3. Create the required database tables.
+4. Execute the SQL script available in the `sql_queries` folder.
+5. Run the queries individually to reproduce the analysis and explore the business insights.
+
 
 ---
 
