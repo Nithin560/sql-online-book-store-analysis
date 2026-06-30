@@ -70,6 +70,7 @@ Throughout this project, I worked with the following SQL concepts:
 * Date Functions
 * Ranking Functions
 * String Functions
+* Null Handling 
 
 ---
 
