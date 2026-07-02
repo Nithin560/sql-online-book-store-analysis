@@ -1,7 +1,9 @@
 -- ====================================================================
+
 -- Online Book Store Analysis
 -- Author : Nithin Vandana
 -- Database : Online Book Store
+
 -- ==================================================================
 
 -- RETREIVE ALL BOOKS FROM THE BOOKS TABLE
