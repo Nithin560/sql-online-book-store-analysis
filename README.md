@@ -1,4 +1,4 @@
-# 📚 SQL Online Book Store Analysis
+#  SQL Online Book Store Analysis
 
 ## Overview
 
