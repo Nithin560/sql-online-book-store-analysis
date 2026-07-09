@@ -112,6 +112,8 @@ This project answers several business-focused questions using SQL, including:
 * Which country generates the highest revenue?
 * Which author has generated the most sales?
 * Which customers purchased books from multiple genres?
+
+  ![Customers Purchased books from multiple genres](screenshots/Customers_Purchased_MoreThan_3Genres.png)
 * What percentage of total revenue comes from each genre?
   ![percentage contribution from each genre](screenshots/Percentage_Contribution_Of_Each_Genre.png)
 * Who are the top three customers in each country?
