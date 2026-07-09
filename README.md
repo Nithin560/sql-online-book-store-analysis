@@ -110,7 +110,8 @@ This project answers several business-focused questions using SQL, including:
 # Which customers have never placed an order?
 
 * Which country generates the highest revenue?
-* Which author has generated the most sales?
+* Which author has generated the highesst revenue?
+* ![Author Generated highest revenue](screenshots/Author_Generated_Highest_Revenue.png)
 * Which customers purchased books from multiple genres?
 
   ![Customers Purchased books from multiple genres](screenshots/Customers_Purchased_MoreThan_3Genres.png)
