@@ -113,6 +113,7 @@ This project answers several business-focused questions using SQL, including:
 * Which author has generated the most sales?
 * Which customers purchased books from multiple genres?
 * What percentage of total revenue comes from each genre?
+  ![percentage contribution from each genre](screenshots/Percentage_Contribution_Of_Each_Genre.png)
 * Who are the top three customers in each country?
 
 Overall, more than **40 SQL queries** were written to explore different business scenarios.
